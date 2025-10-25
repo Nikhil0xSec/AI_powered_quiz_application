@@ -1,4 +1,3 @@
-# AI_powered_quiz_application
 # Complete AI Quiz App - Single File React Application
 
 ## 🎯 Application Overview
